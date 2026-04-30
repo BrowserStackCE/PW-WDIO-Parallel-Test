@@ -14,5 +14,5 @@ This repo contains samples for running WebdriverIO appium tests on BrowserStack 
 - To run the sample tests in parallel across the platforms specified in the `browserstack.yml`, run `npm run app-test`.
 
 ## Notes
-* You can view your test results on the [BrowserStack App Automate dashboard](https://www.browserstack.com/automate)
+* You can view your test results on the [BrowserStack App Automate dashboard](https://app-automate.browserstack.com/dashboard/v2)
 * Understand how many parallel sessions you need by using our [Parallel Test Calculator](https://www.browserstack.com/automate/parallel-calculator?ref=github)
