@@ -1,7 +1,7 @@
 # node-js-playwright-browserstack
 This repo contains samples for running WebdriverIO appium tests on BrowserStack using the browserstack-node-sdk using Playwright as Test Runner.
 
-![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780)
+![BrowserStack Logo](https://www.browserstack.com/images/static/header-logo.jpg)
 
 ## Setup
 
